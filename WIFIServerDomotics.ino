@@ -9,8 +9,9 @@
 
 #include <ESP8266WiFi.h>
 
-const char* ssid = "EL_AZUL";
-const char* password = "Gadirfjtp1169!";
+/* SSID name and its password */
+const char* ssid = "XXXXXXXXX";
+const char* password = "XXXXXXXXXXXX";
 
 // Background colors of buttons
 String background2, background3, background4, background5;
